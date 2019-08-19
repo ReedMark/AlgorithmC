@@ -1,0 +1,8 @@
+﻿  Queue.c
+e:\workspace\queue\queue\queue.c(38): warning C4013: 'malloc' undefined; assuming extern returning int
+e:\workspace\queue\queue\queue.c(38): warning C4047: 'initializing': 'Queue' differs in levels of indirection from 'int'
+e:\workspace\queue\queue\queue.c(45): warning C4028: formal parameter 1 different from declaration
+e:\workspace\queue\queue\queue.c(45): warning C4028: formal parameter 2 different from declaration
+e:\workspace\queue\queue\queue.c(59): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+e:\workspace\queue\queue\queue.c(64): warning C4013: 'system' undefined; assuming extern returning int
+  Queue.vcxproj -> E:\workspace\Queue\Debug\Queue.exe
