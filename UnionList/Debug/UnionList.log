@@ -1,0 +1,10 @@
+﻿  UnionList.c
+e:\workspace\list\unionlist\unionlist.c(14): warning C4013: 'malloc' undefined; assuming extern returning int
+e:\workspace\list\unionlist\unionlist.c(14): warning C4047: 'initializing': 'List' differs in levels of indirection from 'int'
+e:\workspace\list\unionlist\unionlist.c(15): warning C4047: 'initializing': 'List' differs in levels of indirection from 'int'
+e:\workspace\list\unionlist\unionlist.c(66): warning C4047: 'initializing': 'Position' differs in levels of indirection from 'int'
+e:\workspace\list\unionlist\unionlist.c(99): warning C4013: 'system' undefined; assuming extern returning int
+e:\workspace\list\unionlist\unionlist.c(73): warning C4047: 'initializing': 'List' differs in levels of indirection from 'int'
+e:\workspace\list\unionlist\unionlist.c(74): warning C4047: 'initializing': 'List' differs in levels of indirection from 'int'
+e:\workspace\list\unionlist\unionlist.c(75): warning C4047: 'initializing': 'List' differs in levels of indirection from 'int'
+  UnionList.vcxproj -> E:\workspace\List\Debug\UnionList.exe

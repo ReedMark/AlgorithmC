@@ -1,0 +1,16 @@
+﻿  List.c
+e:\workspace\list\remove duplicates\list.c(15): warning C4013: 'malloc' undefined; assuming extern returning int
+e:\workspace\list\remove duplicates\list.c(15): warning C4047: 'initializing': 'List' differs in levels of indirection from 'List *'
+e:\workspace\list\remove duplicates\list.c(13): warning C4101: 'Tmp': unreferenced local variable
+e:\workspace\list\remove duplicates\list.c(42): warning C4047: 'initializing': 'List' differs in levels of indirection from 'List *'
+e:\workspace\list\remove duplicates\list.c(43): warning C4047: 'initializing': 'List' differs in levels of indirection from 'List *'
+e:\workspace\list\remove duplicates\list.c(44): warning C4047: 'initializing': 'List' differs in levels of indirection from 'List *'
+e:\workspace\list\remove duplicates\list.c(93): warning C4013: 'system' undefined; assuming extern returning int
+e:\workspace\list\remove duplicates\list.c(72): warning C4047: 'initializing': 'List' differs in levels of indirection from 'List *'
+e:\workspace\list\remove duplicates\list.c(73): warning C4047: 'initializing': 'List' differs in levels of indirection from 'List *'
+e:\workspace\list\remove duplicates\list.c(74): warning C4047: 'initializing': 'List' differs in levels of indirection from 'List *'
+e:\workspace\list\remove duplicates\list.c(75): warning C4047: 'initializing': 'List' differs in levels of indirection from 'List *'
+e:\workspace\list\remove duplicates\list.c(76): warning C4047: 'initializing': 'List' differs in levels of indirection from 'List *'
+e:\workspace\list\remove duplicates\list.c(77): warning C4047: 'initializing': 'List' differs in levels of indirection from 'List *'
+e:\workspace\list\remove duplicates\list.c(69): warning C4715: 'Duplicates': not all control paths return a value
+  Remove Duplicates.vcxproj -> E:\workspace\List\Debug\Remove Duplicates.exe

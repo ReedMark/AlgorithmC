@@ -1,0 +1,10 @@
+﻿  List.c
+e:\workspace\list\intersect\list.c(22): warning C4013: 'malloc' undefined; assuming extern returning int
+e:\workspace\list\intersect\list.c(22): warning C4047: 'initializing': 'Position' differs in levels of indirection from 'int'
+e:\workspace\list\intersect\list.c(32): warning C4047: 'initializing': 'List' differs in levels of indirection from 'int'
+e:\workspace\list\intersect\list.c(33): warning C4047: 'initializing': 'List' differs in levels of indirection from 'int'
+e:\workspace\list\intersect\list.c(85): warning C4013: 'system' undefined; assuming extern returning int
+e:\workspace\list\intersect\list.c(59): warning C4047: 'initializing': 'List' differs in levels of indirection from 'int'
+e:\workspace\list\intersect\list.c(60): warning C4047: 'initializing': 'List' differs in levels of indirection from 'int'
+e:\workspace\list\intersect\list.c(61): warning C4047: 'initializing': 'List' differs in levels of indirection from 'int'
+  InterSect.vcxproj -> E:\workspace\List\Debug\InterSect.exe
